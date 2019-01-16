@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LabelingTool version=" 2.10.6_10.12.3">
+  <creator>admin</creator>
+  <project name="GridSmart_Bbox" path="GridSmart_Bbox">
+    <class id="6" name="bus" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#c17d11"/>
+    <class id="5" name="truck" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#edd400"/>
+    <class id="4" name="skateboarder" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#75507b"/>
+    <class id="3" name="motorcyclist" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#73d216"/>
+    <class id="2" name="pedestrian" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#f57900"/>
+    <class id="1" name="cyclist" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#082ae7"/>
+    <class id="0" name="car" Pcls="None" isRot="False" isBbtype="False" bbType="RECT" cCode="#ef2929"/>
+  </project>
+</LabelingTool>
